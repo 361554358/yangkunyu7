@@ -3,7 +3,9 @@ package com.yky.test.solve;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-
+/**
+ * 提供字符串分隔的服务
+ */
 public class BreakStringService {
     /**
      * 默认字典
