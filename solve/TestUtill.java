@@ -4,7 +4,9 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-
+/**
+ * 测试类
+ */
 public class TestUtill {
     public static void main(String[] args){
         BreakStringService service = new BreakStringService();
