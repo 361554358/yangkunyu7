@@ -3,7 +3,9 @@ package com.yky.test.solve;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
-
+/**
+ * 字符串分隔的工具类
+ */
 public class StringBreakUtil {
     /**
      * 根据字典中的单词分隔字符串
